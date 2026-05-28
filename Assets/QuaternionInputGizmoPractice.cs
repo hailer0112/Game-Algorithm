@@ -4,9 +4,9 @@ using UnityEngine.InputSystem;
 public class QuaternionInputGizmoPractice : MonoBehaviour
 {
     public float rotationSpeed = 4f;
-    public float targetMoveSpeed = 4f;
-    public float targetDistance = 4f;
-    public float targetRange = 3f;
+    public float targetMoveSpeed = 15f;
+    public float targetDistance = 10f;
+    public float targetRange = 15f;
 
     Vector3 targetOffset = new Vector3(0f, 0f, 4f);
     void Update()
