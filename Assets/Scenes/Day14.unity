@@ -152,7 +152,7 @@ MonoBehaviour:
   height: 15
   cellSize: 1
   start: {x: 0, y: 0}
-  goal: {x: 14, y: 14}
+  goal: {x: 10, y: 9}
   walls:
   - {x: 3, y: 0}
   - {x: 3, y: 1}
